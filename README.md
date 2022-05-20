@@ -3,16 +3,16 @@
 
 # Homework 
 ```Ödev```
-Reduce kullanarak gruplama
+#### Reduce kullanarak gruplama
 
 ## Homework Description
 
 ```Ödev Açıklaması ```
-Reduce kullanarak isimlerin baş harflerine göre gruplama yapmak.
-Reduce kullanarak şehirlere göre gruplama yapmak.
+1 Reduce kullanarak isimlerin baş harflerine göre gruplama yapmak.
+2 Reduce kullanarak şehirlere göre gruplama yapmak.
 
 
 ## Author
 
 ```Ödevi yapan```
-Fatma Kurtuluş
+#### Fatma Kurtuluş
