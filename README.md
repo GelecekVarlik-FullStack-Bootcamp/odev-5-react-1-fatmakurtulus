@@ -8,8 +8,8 @@
 ## Homework Description
 
 ```Ödev Açıklaması ```
-1 Reduce kullanarak isimlerin baş harflerine göre gruplama yapmak.
-2 Reduce kullanarak şehirlere göre gruplama yapmak.
+#### 1 Reduce kullanarak isimlerin baş harflerine göre gruplama yapmak.
+#### 2 Reduce kullanarak şehirlere göre gruplama yapmak.
 
 
 ## Author
